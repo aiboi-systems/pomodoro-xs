@@ -10,5 +10,4 @@ A simple pomodoro timer built with Microsoft Access.
 - Form timer
 - Background color change
 - Custome hover tooltip based on form
-- 
 
