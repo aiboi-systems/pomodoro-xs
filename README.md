@@ -1,6 +1,8 @@
 # Pomodoro XS
 A simple pomodoro timer built with Microsoft Access.
 
+![Timer Screenshot](/screenshots/timer-screen.png)
+
 ## Features
 - Update the time interval of the Pomodoro, Short Break and Long Break
 - Add tasks and projects
